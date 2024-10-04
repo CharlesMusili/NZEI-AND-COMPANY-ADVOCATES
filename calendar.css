@@ -1,0 +1,15 @@
+.calendar {
+    width: 100%;
+    border-collapse: 
+    collapse};
+.calendar th, .calendar
+td {
+border: 1px solid
+#d89595;
+padding: 8px;
+text-align: center;
+}
+.calendar th {
+background-color:
+#d36f6fe3;
+}
